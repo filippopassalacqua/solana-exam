@@ -12,3 +12,9 @@ Minted 50 token to 2eVeNXPfbecRQgpjnWvgJAZs2oYqbA4MAivaHN5XeoMS
 4- Transfer
 
 Success! Check your transaction here: https://explorer.solana.com/tx/3xLPzHzzpCxi7NZoHDS8q183tBZP2rxqN2RnCeio3XV6GGynnaYXTGbExTBWiPosaePiFmg17GaYx4aufBNZCcpY?cluster=devnet
+
+Jun 8, 2024 at 23:11:45
+Filippo: I noticed that I pasted the wrong transaction for the transfer
+The correct transaction was : 41VyadecY99QNutEb5CS9bgsv5hyD5gokk2R7irR16zqLSEj137Km9TZBz7g7DZpr8HiHqQqawwUzCnRYiWEx6EN 
+Jun 8, 2024 at 12:03:14
+Sorry :)
