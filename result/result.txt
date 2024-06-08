@@ -1,0 +1,14 @@
+1 -  Keygen 
+Public key: ki91CUEHg53z69qBMdWgd6c64D2wzFw8GwWTc5ZsVyZ
+
+2 - Airdrop
+Airdrop Signature: 3mMJdW8yapSrg61bSBRb51qUbpphbc1qcHKMDwbghD8u2rPr8XEVc4ziccTRsWUBJDf4Hfidhebxyeq4cZfjvA3i
+Success! Check your transaction here: https://explorer.solana.com/tx/3mMJdW8yapSrg61bSBRb51qUbpphbc1qcHKMDwbghD8u2rPr8XEVc4ziccTRsWUBJDf4Hfidhebxyeq4cZfjvA3i?cluster=devnet
+
+3- Mint
+Mint address 6zsZGgSS3cLutznExGK1mU7WKMzrxormoqJzNmSQWHR5
+Minted 50 token to 2eVeNXPfbecRQgpjnWvgJAZs2oYqbA4MAivaHN5XeoMS
+
+4- Transfer
+
+Success! Check your transaction here: https://explorer.solana.com/tx/3xLPzHzzpCxi7NZoHDS8q183tBZP2rxqN2RnCeio3XV6GGynnaYXTGbExTBWiPosaePiFmg17GaYx4aufBNZCcpY?cluster=devnet
